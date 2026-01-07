@@ -114,11 +114,11 @@ The insights can help build <b>music recommendation systems</b> or <b>mood-based
 
 Amazon-Music-Clustering/
 │
-├── amazon.ipynb # Main analysis notebook
+├── amazon_music_clustering.ipynb # Main analysis notebook
 ├── README.md # Project documentation
 ├── dataset/ # Input data (audio features)
 ├── visuals/ # Output plots & heatmaps
-└── requirements.txt # Python dependencies
+└── 
 
 
 
@@ -157,12 +157,3 @@ These insights can be leveraged for:
 
 ---
 
-<h2>👩‍💻 Author</h2>
-
-<b>Arvinth AthiKesav</b>  
-🎧 <i>Amazon Music Clustering — Data Science Mini Project</i>  
-
----
-
-
-<h4 align="center">⭐ If you like this project, don’t forget to star the repo!</h4>
